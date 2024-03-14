@@ -1,7 +1,7 @@
 # Project 1: Structural Risk Minimization
 
 ## Introduction
-This project focuses on building an efficient email spam filter using various machine learning techniques and a MERN stack, deployed on AWS.
+This project focuses on building an efficient email spam filter using various machine learning techniques.
 
 ## Key Components
 - **Project1Main.py**: Main function of the project.
